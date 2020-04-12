@@ -13,5 +13,5 @@ It can happen that the person tries to cheat through phone. Hence, we decided to
 ##### How to run?
 1. Just run the Main class.
 
-#### NOTE
+### NOTE
 Please keep in mind that this is not an actual android app and we didn't use any real-time database for the keylock feature & modeartion. We just delivered a working protocol as soon as we can on a language which was well known by all the team members at the time.
