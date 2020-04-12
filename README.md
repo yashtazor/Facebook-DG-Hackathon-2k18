@@ -1,5 +1,9 @@
 # Hackathon-2k18
-Just a simple scientific calculator with some additional operations and a key lock.
 
-Executing this project is easy, just run the 'Main' class.
+This is just a simple scientific calculator which was made during the Facebook Developer Group Hackathon'18.
+
+## Why?
+So, why did we make this? 
+
+It was simply to allow examination takers to use their phones during the exams to use their phones to use the cauculator instead of buying one.
 
