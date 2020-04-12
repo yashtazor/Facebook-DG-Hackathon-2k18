@@ -1,4 +1,4 @@
-# Facebook Developer Group Hackathon-2k18
+# Facebook Developer Group Hackathon 2018.
 
 A simple scientific calculator with a key lock feature which was made during the Facebook Developer Group Hackathon'18.
 
