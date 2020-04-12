@@ -1,6 +1,6 @@
 # Hackathon-2k18
 
-This is just a simple scientific calculator which was made during the Facebook Developer Group Hackathon'18.
+A simple scientific calculator with a key lock feature which was made during the Facebook Developer Group Hackathon'18.
 
 ##### Why?
 So, why did we make this? 
